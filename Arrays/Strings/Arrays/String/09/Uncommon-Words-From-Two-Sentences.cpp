@@ -5,7 +5,7 @@ Problem  884- Uncommon Words from Two Sentences(Easy)
 Problem Explanation:
 Given two sentences s1 and s2, you are tasked with finding all words that appear exactly once in either of the two sentences but not in both. In other words, a word is considered "uncommon" if it appears in only one sentence and has a frequency of 1.
 
-For example:
+For example:-
 
 Input:
 s1 = "apple banana apple",
