@@ -1,5 +1,5 @@
 /*
-Problem 179: Largest Number(Medium)
+Problem 179: Largest Number (Medium)
 The task is to arrange the numbers in such a way that they form the largest possible number. Given an array of non-negative integers, concatenate them in a specific order to form the largest possible number.
 
 Custom Comparator:
